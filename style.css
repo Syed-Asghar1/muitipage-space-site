@@ -1,0 +1,45 @@
+nav a:hover
+{background-color:lightblue;
+ color: blue;}
+
+nav a:active
+{background-color:green;
+ color: yellow;}
+
+body
+{background-image:url('https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg');
+ background-repeat: no-repeat;
+ background-size:cover;}
+
+h1,a
+{color: white;}
+
+h1::first-letter
+{font-size:2em;}
+
+*
+{color:white;}
+
+main
+{font-family:Cochin, serif;
+ text-align:justify;
+ width:75%;
+ margin:auto;}
+
+nav a
+{text-decoration:none;
+ margin:20px;}
+
+a[target="_blank"]
+{Color:blue;
+background-color:white;}
+
+img
+{width:30%;
+ margin:30px;}
+
+img[alt]
+{border:10px white dotted;}
+
+#space_vidios
+{color:beige; }
